@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+gmaps = "==0.6.2"
+pandas = "==0.20.3"
+gunicorn = "*"
+dash = "==0.19.0"
+dash-core-components = "==0.14.0"
+dash-html-components = "==0.8.0"
+plotly = "==2.1.0"

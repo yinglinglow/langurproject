@@ -1,2 +1,2 @@
-gmaps==0.6.2p
+gmaps==0.6.2
 pandas==0.20.3
